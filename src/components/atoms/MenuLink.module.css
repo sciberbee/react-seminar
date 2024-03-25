@@ -1,0 +1,19 @@
+.menuLink {
+  transition: background-color 0.2s ease;
+
+  border-radius: 0.8rem;
+  padding: 0.8rem 1.6rem;
+
+  font-size: 1.3rem;
+  line-height: 1.6;
+  font-weight: 600;
+  color: var(--clr-gray-700);
+}
+
+.menuLink:hover {
+  background-color: var(--clr-gray-opacity-100);
+}
+
+.active {
+  color: var(--clr-primary-600);
+}

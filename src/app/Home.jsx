@@ -1,5 +1,1 @@
-export const Home = () => (
-  <main>
-    <h1>Hello World</h1>
-  </main>
-);
+export const Home = () => <h1>Welcome to React Seminar 👋</h1>;
