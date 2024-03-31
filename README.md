@@ -24,3 +24,5 @@ Run the development server:
 ```bash
 pnpm dev
 ```
+Finished of developing todo-list!
+Happy Birthday to myself
