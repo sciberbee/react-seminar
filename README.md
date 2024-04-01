@@ -1,6 +1,6 @@
 # React Seminar
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/78ba3ea8-02f2-4afe-9f51-799ebedc78a5/deploy-status)](https://app.netlify.com/sites/react-seminar/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/e919100b-244d-4a35-983b-b85183fc8fa0/deploy-status)](https://app.netlify.com/sites/voluble-zabaione-e3c5e9/deploys)
 [![Gitmoji](https://img.shields.io/badge/gitmoji-%20😜%20😍-FFDD67.svg)](https://gitmoji.dev)
 
 A seminar for beginners who are interested in learning [React](https://react.dev).
